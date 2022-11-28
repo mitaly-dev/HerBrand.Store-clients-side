@@ -1,0 +1,8 @@
+.product-container{
+    transition: 0.3s;
+}
+.product-container:hover{
+    transform: translateY(-35px);
+    transition: 0.5s;
+    cursor: pointer;
+}
